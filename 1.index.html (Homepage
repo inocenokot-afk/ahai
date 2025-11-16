@@ -1,0 +1,21 @@
+<!-- AHAI WEBSITE COMPLETE PACKAGE (MULTI‑PAGE NGO SITE)
+This document contains ALL pages required for a professional organization:
+1. index.html (Homepage)
+2. about.html
+3. vision-mission.html
+4. programs.html
+5. wash.html
+6. health.html
+7. environment.html
+8. contact.html
+9. donate.html
+10. styles.css (shared stylesheet)
+<header>
+    <nav>
+        <ul style="list-style:none; display:flex; justify-content:center; gap:20px; padding:10px; background:#0077b6;">
+            <li><a href="index.html" style="color:white; text-decoration:none;">Home</a></li>
+            <li><a href="about.html" style="color:white; text-decoration:none;">About Us</a></li>
+            <li><a href="contact.html" style="color:white; text-decoration:none;">Contact</a></li>
+        </ul>
+    </nav>
+</header>
